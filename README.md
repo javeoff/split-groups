@@ -1,6 +1,6 @@
 # split-groups
 
-Utility to array to groups.
+Utility to split array into groups.
 
 To install package:
 
